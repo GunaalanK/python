@@ -6,6 +6,12 @@ import math as mt
 
 
 a=16
-print(mt.sqrt(a)) # only sqrt not working so import math 
+# print(mt.sqrt(a)) # only sqrt not working so import math 
 
+# print('I am here')
+
+
+d=input('Enter the number\n')
+d=int(d)
+print(d)
 

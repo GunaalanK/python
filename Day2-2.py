@@ -152,18 +152,22 @@ adissu = Hero('Adissu')
 # print(Roi.name)
 
 
-class Employee:
+# class Employee:
 
-    def __init__(self,name,paycheck):
-        self.name=name
-        self.paycheck=paycheck
+#     def __init__(self,name,paycheck):
+#         self.name=name
+#         self.paycheck=paycheck
 
-    def raise_paycheck(self, number):
-        self.paycheck= self.paycheck+(self.paycheck*number)
+#     def raise_paycheck(self, number):
+#         self.paycheck= self.paycheck+(self.paycheck*number)
 
-mario =Employee('Mario', 1000)
-print(mario.name)
-print(mario.paycheck)
+# mario =Employee('Mario', 1000)
+# print(mario.name)
+# print(mario.paycheck)
 
-mario.raise_paycheck(0.1)
-print(mario.paycheck)
+# mario.raise_paycheck(0.1)
+# print(mario.paycheck)
+
+
+
+print('I am here')
